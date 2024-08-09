@@ -1,4 +1,5 @@
 甘肃,#genre#
+测试,https://raw.githubusercontent.com/jygldj/jygwsf/main/%E7%AD%89%E4%BB%80%E4%B9%88%E5%90%9B-%E8%BE%9E%E4%B9%9D%E9%97%A8%E5%9B%9E%E5%BF%86.mp4
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 甘肃文化,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
