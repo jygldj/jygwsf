@@ -211,7 +211,7 @@
             "type": 0,
             "url": "./lib/feiyang.json",
             "ua": "okhttp/4.1.0",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "epg": "https://epg.v1.mk/fy.xml",
             "logo": "https://gongdian.top/logo/tv/{name}.png",
             "catchup": {
                 "type": "append",
