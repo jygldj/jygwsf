@@ -1,65 +1,65 @@
 
 {
-  "spider": "./pg.jar",
-  "sites": [
-    {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "./lib/douban.json"
-    },
-    {
-      "key": "https://github.com/fish2018/PG",
-      "name": "202502091436",
-      "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250209-1436.zip",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "./lib/douban.json"
-    },
+  “蜘蛛”：“ ./pg.jar”，"spider": "./pg.jar",
+  “站点”：["sites": [
+    {{
+      “键”：“豆瓣”，"key": "豆瓣",
+      “名称”：“豆瓣”，"name": "豆瓣",
+      “类型”：3，"type": 3,
+      “ api”：“ csp_douban”，"api": "csp_Douban",
+      “可搜索”：0，"searchable": 0,
+      “可变”：1，"changeable": 1,
+      “索引”：1，"indexs": 1,
+      “ ext”：“ ./lib/douban.json”"ext": "./lib/douban.json"
+    }，，},
+    {{
+      “键”：“ https：//github.com/fish2018/pg”，"key": "https://github.com/fish2018/PG",
+      “名称”：“ 202502091436”，"name": "202502091436",
+      “ zip”：“ https：//slink.ltd/https://raw.githubusercontent.com/fish2018/pg/main/pg.20202020209-1436.zip”，"zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250209-1436.zip",
+      “类型”：3，"type": 3,
+      “ api”：“ csp_douban”，"api": "csp_Douban",
+      “可搜索”：0，"searchable": 0,
+      “可变”：1，"changeable": 1,
+      “索引”：1，"indexs": 1,
+      “ ext”：“ ./lib/douban.json”"ext": "./lib/douban.json"
+    }，，},
 
-    {
-      "key": "网盘配置",
-      "name": "网盘及彈幕配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/tokenm.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-    },
-    {
-      "key": "Local",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local"
-    },
+    {{
+      “键”：“网盘配置”，"key": "网盘配置",
+      “名称”：“网盘及弹幕配置”，"name": "网盘及彈幕配置",
+      “类型”：3，"type": 3,
+      “ api”：“ csp_config”，"api": "csp_Config",
+      “可搜索”：0，"searchable": 0,
+      “可变”：0，"changeable": 0,
+      “ ext”：“ ./lib/tokenm.json”，"ext": "./lib/tokenm.json",
+      “风格”： {"style": {
+        “ type”：“ rect”，"type": "rect",
+        “比率”：1.5"ratio": 1.5
+      }}
+    }，，},
+    {{
+      “键”：“本地”，"key": "Local",
+      “名称”：“本地”，"name": "本地",
+      “类型”：3，"type": 3,
+      “ api”：“ csp_local”"api": "csp_Local"
+    }，，},
 
-    {
-      "key": "FirstAid",
-      "name": "🚑 急救知识 ",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "bili",
-      "name": "B站 | Bili[jar]",
+    {{
+      “键”：“ firstaid”，"key": "FirstAid",
+      “名称”：“🚑急救知识”，"name": "🚑 急救知识 ",
+      “类型”：3，"type": 3,
+      “ api”：“ csp_firstaid”，"api": "csp_FirstAid",
+      “可搜索”：0，"searchable": 0,
+      “ QuickSearch”：0，"quickSearch": 0,
+      “可变”：0，"changeable": 0,
+      “风格”： {"style": {
+        “ type”：“ rect”，"type": "rect",
+        “比率”：3.8"ratio": 3.8
+      }}
+    }，，},
+    {{
+      “键”：“ bili”，"key": "bili",
+      “名称”：“b站| bili [jar]”，"name": "B站 | Bili[jar]",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
