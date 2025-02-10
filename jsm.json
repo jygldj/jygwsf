@@ -434,75 +434,73 @@
       ],
       "regex": [
         "video/tos/cn"
-      ]
-    },
+      这是给出的
+    }，，，
     {
-      "name": "夜市",
-      "hosts": [
-        "yeslivetv.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ]
-    },
+      “名称”：“夜市”，，
+      “主持人”：[[
+        “ yeslivetv.com”
+      ]，，，
+      “脚本”：：[
+        “ document.getElementsByClassName（'vjs-big-play-button'）[0] .click（）”
+      这是给出的
+    }，，
     {
-      "name": "毛驢",
-      "hosts": [
-        "www.maolvys.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      ]
-    },
+      “名称”：“毛驴”，
+      “主持人”：[
+        “ www.maolvys.com”
+      ]，，
+      “脚本”：[
+        “ document.getElementsByClassName（'swal-button swal-button-confirm'）[0] .click（）
+      这是给出的
+    }，，
     {
-      "name": "磁力广告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "社 区",
-        "x u u",
-        "最 新",
-        "直 播",
-        "更 新",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
-      ]
+      “名称”：“磁力广告”，
+      “主持人”：[
+        “磁铁”
+      ]，，
+      “正则”：[[
+        “更多”，
+        “社”，
+        “ Xu U”，
+        “最”，
+        “直”，
+        “更”，
+        “有”，
+        “英皇体育”，
+        “全中文av在线”，
+        “澳门皇冠赌场”，
+        “哥哥快来”，
+        “美女荷官”，
+        “裸聊”，
+        “新片首发”，
+        “ UUE29”
+      这是给出的
     }
-  ],
-  "parses": [
+  ]，，
+  "parses"：[[
     {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
+      “名称”：“聚合”，
+      “类型”：3，
+      “ url”：“演示”
+    }，，
     {
-      "name": "web",
-      "type": 3,
-      "url": "Web"
+      “名称”：“ Web”，
+      “类型”：3，
+      “ url”：“ web”
     }
-  ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
+  ]，，
+  "flags"：[
+    “ youku”，
+    “ QQ”，
+    “ iqiyi”，
+    “ Qiyi”，
+    “ letv”，
     "sohu",
     "tudou",
     "pptv",
     "mgtv",
     "wasu"
   ],
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "logo": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif"
+  “墙纸”: "http://饭太硬.top/深色壁纸/api.php"
 }
