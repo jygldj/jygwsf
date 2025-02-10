@@ -96,48 +96,7 @@ CCTV17,http://127.0.0.1:35456/gaoma/cctv17.m3u8
 CCTV17,http://127.0.0.1:35456/itv/5000000011000288014.m3u8?cdn=bestzb
 CCTV17,http://127.0.0.1:35456/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
-4K8K其他,#genre#
 
-CCTV-16-4K-HEVC-BST,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
-cctv4k_10m,http://127.0.0.1:35456/gaoma/cctv4k_10m.m3u8
-cctv4k,http://127.0.0.1:35456/gaoma/cctv4k.m3u8
-cctv164k_10m,http://127.0.0.1:35456/gaoma/cctv4k16_10m.m3u8
-cctv164k,http://127.0.0.1:35456/gaoma/cctv4k16.m3u8
-cctv8k_36m,http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-华数-4K-WAS,http://127.0.0.1:35456/itv/6000000003000004748.m3u8?cdn=wasusyt
-纯享-4K-YST,http://127.0.0.1:35456/itv/1000000004000011651.m3u8?cdn=ystenlive
-咪咕4K-1-FST,http://127.0.0.1:35456/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕4K-2-FST,http://127.0.0.1:35456/itv/3000000010000015686.m3u8?cdn=FifastbLive
-SiTV-欢笑剧场-4K-BST,http://127.0.0.1:35456/itv/5000000007000010001.m3u8?cdn=bestzb
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-中国教育1台,http://127.0.0.1:35456/itv/5000000002000002652.m3u8?cdn=bestzb
-中国教育4台,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
-咪咕全民热练,http://127.0.0.1:35456/itv/3000000020000031315.m3u8?cdn=FifastbLive
-求索动物,http://127.0.0.1:35456/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://127.0.0.1:35456/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索科学,http://127.0.0.1:35456/itv/6000000002000032344.m3u8?cdn=wasusyt
-中国天气,http://127.0.0.1:35456/itv/5000000005000031974.m3u8?cdn=bestzb
-财富天下,http://127.0.0.1:35456/itv/5000000011000031208.m3u8?cdn=bestzb
-中华美食,http://127.0.0.1:35456/itv/1000000005000266015.m3u8?cdn=ystenlive
-精彩影视,http://127.0.0.1:35456/itv/6000000006000320630.m3u8?cdn=wasusyt
-先锋乒羽,http://127.0.0.1:35456/itv/4886720949268374180.m3u8?cdn=hnbblive
-欧美影院,http://127.0.0.1:35456/itv/7185203501769528108.m3u8?cdn=wasusyt
-探索记录,http://127.0.0.1:35456/itv/2000000004000000007.m3u8?cdn=hnbblive
-炫彩3D,http://127.0.0.1:35456/itv/6000000003000000558.m3u8?cdn=wasusyt
-亚洲影院,http://127.0.0.1:35456/itv/2000000004000000006.m3u8?cdn=hnbblive
-求索生活,http://127.0.0.1:35456/itv/6000000002000003382.m3u8?cdn=wasusyt
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CGTN,http://127.0.0.1:35456/itv/7745129417417101820.m3u8?cdn=hnbblive
-CGTN记录,http://127.0.0.1:35456/itv/7114647837765104058.m3u8?cdn=hnbblive
-CGTNALBY,http://127.0.0.1:35456/gaoma/cgtnar.m3u8
-CGTNDOCUMENTARY,http://127.0.0.1:35456/gaoma/cgtndoc.m3u8
-CGTNEN,http://127.0.0.1:35456/gaoma/cgtnen.m3u8
-CGTNFRENCH,http://127.0.0.1:35456/gaoma/cgtnfr.m3u8
-CGTNRU,http://127.0.0.1:35456/gaoma/cgtnru.m3u8
-CGTNSP,http://127.0.0.1:35456/gaoma/cgtnsp.m3u8
 省市卫视,#genre#
 北京卫视,http://127.0.0.1:35456/itv/5000000004000031556.m3u8?cdn=bestzb
 北京卫视,http://127.0.0.1:35456/itv/6000000001000020451.m3u8?cdn=wasusyt
@@ -253,6 +212,48 @@ CGTNSP,http://127.0.0.1:35456/gaoma/cgtnsp.m3u8
 山东教育卫视,http://127.0.0.1:35456/itv/1000000002000004097.m3u8?cdn=ystenlive
 康巴卫视,http://127.0.0.1:35456/itv/1000000005000266002.m3u8?cdn=ystenlive
 安多卫视,http://127.0.0.1:35456/itv/1000000005000266001.m3u8?cdn=ystenlive
+4K8K其他,#genre#
+
+CCTV-16-4K-HEVC-BST,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
+cctv4k_10m,http://127.0.0.1:35456/gaoma/cctv4k_10m.m3u8
+cctv4k,http://127.0.0.1:35456/gaoma/cctv4k.m3u8
+cctv164k_10m,http://127.0.0.1:35456/gaoma/cctv4k16_10m.m3u8
+cctv164k,http://127.0.0.1:35456/gaoma/cctv4k16.m3u8
+cctv8k_36m,http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+华数-4K-WAS,http://127.0.0.1:35456/itv/6000000003000004748.m3u8?cdn=wasusyt
+纯享-4K-YST,http://127.0.0.1:35456/itv/1000000004000011651.m3u8?cdn=ystenlive
+咪咕4K-1-FST,http://127.0.0.1:35456/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K-2-FST,http://127.0.0.1:35456/itv/3000000010000015686.m3u8?cdn=FifastbLive
+SiTV-欢笑剧场-4K-BST,http://127.0.0.1:35456/itv/5000000007000010001.m3u8?cdn=bestzb
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+中国教育1台,http://127.0.0.1:35456/itv/5000000002000002652.m3u8?cdn=bestzb
+中国教育4台,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
+咪咕全民热练,http://127.0.0.1:35456/itv/3000000020000031315.m3u8?cdn=FifastbLive
+求索动物,http://127.0.0.1:35456/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://127.0.0.1:35456/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://127.0.0.1:35456/itv/6000000002000032344.m3u8?cdn=wasusyt
+中国天气,http://127.0.0.1:35456/itv/5000000005000031974.m3u8?cdn=bestzb
+财富天下,http://127.0.0.1:35456/itv/5000000011000031208.m3u8?cdn=bestzb
+中华美食,http://127.0.0.1:35456/itv/1000000005000266015.m3u8?cdn=ystenlive
+精彩影视,http://127.0.0.1:35456/itv/6000000006000320630.m3u8?cdn=wasusyt
+先锋乒羽,http://127.0.0.1:35456/itv/4886720949268374180.m3u8?cdn=hnbblive
+欧美影院,http://127.0.0.1:35456/itv/7185203501769528108.m3u8?cdn=wasusyt
+探索记录,http://127.0.0.1:35456/itv/2000000004000000007.m3u8?cdn=hnbblive
+炫彩3D,http://127.0.0.1:35456/itv/6000000003000000558.m3u8?cdn=wasusyt
+亚洲影院,http://127.0.0.1:35456/itv/2000000004000000006.m3u8?cdn=hnbblive
+求索生活,http://127.0.0.1:35456/itv/6000000002000003382.m3u8?cdn=wasusyt
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+CGTN,http://127.0.0.1:35456/itv/7745129417417101820.m3u8?cdn=hnbblive
+CGTN记录,http://127.0.0.1:35456/itv/7114647837765104058.m3u8?cdn=hnbblive
+CGTNALBY,http://127.0.0.1:35456/gaoma/cgtnar.m3u8
+CGTNDOCUMENTARY,http://127.0.0.1:35456/gaoma/cgtndoc.m3u8
+CGTNEN,http://127.0.0.1:35456/gaoma/cgtnen.m3u8
+CGTNFRENCH,http://127.0.0.1:35456/gaoma/cgtnfr.m3u8
+CGTNRU,http://127.0.0.1:35456/gaoma/cgtnru.m3u8
+CGTNSP,http://127.0.0.1:35456/gaoma/cgtnsp.m3u8
 NewTV,#genre#
 精品综合,http://127.0.0.1:35456/itv/1000000004000019008.m3u8?cdn=ystenlive
 精品大剧,http://127.0.0.1:35456/itv/1000000004000013968.m3u8?cdn=ystenlive
