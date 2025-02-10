@@ -1,65 +1,65 @@
 
 {
-  “蜘蛛”：“ ./pg.jar”，"spider": "./pg.jar",
-  “站点”：["sites": [
-    {{
-      “键”：“豆瓣”，"key": "豆瓣",
-      “名称”：“豆瓣”，"name": "豆瓣",
-      “类型”：3，"type": 3,
-      “ api”：“ csp_douban”，"api": "csp_Douban",
-      “可搜索”：0，"searchable": 0,
-      “可变”：1，"changeable": 1,
-      “索引”：1，"indexs": 1,
-      “ ext”：“ ./lib/douban.json”"ext": "./lib/douban.json"
-    }，，},
-    {{
-      “键”：“ https：//github.com/fish2018/pg”，"key": "https://github.com/fish2018/PG",
-      “名称”：“ 202502091436”，"name": "202502091436",
-      “ zip”：“ https：//slink.ltd/https://raw.githubusercontent.com/fish2018/pg/main/pg.20202020209-1436.zip”，"zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250209-1436.zip",
-      “类型”：3，"type": 3,
-      “ api”：“ csp_douban”，"api": "csp_Douban",
-      “可搜索”：0，"searchable": 0,
-      “可变”：1，"changeable": 1,
-      “索引”：1，"indexs": 1,
-      “ ext”：“ ./lib/douban.json”"ext": "./lib/douban.json"
-    }，，},
+  "spider": "./pg.jar",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "祝亲朋好友观影愉快",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./lib/douban.json"
+    },
+    {
+      "key": "https://github.com/fish2018/PG",
+      "name": "202502091436",
+      "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250209-1436.zip",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./lib/douban.json"
+    },
 
-    {{
-      “键”：“网盘配置”，"key": "网盘配置",
-      “名称”：“网盘及弹幕配置”，"name": "网盘及彈幕配置",
-      “类型”：3，"type": 3,
-      “ api”：“ csp_config”，"api": "csp_Config",
-      “可搜索”：0，"searchable": 0,
-      “可变”：0，"changeable": 0,
-      “ ext”：“ ./lib/tokenm.json”，"ext": "./lib/tokenm.json",
-      “风格”： {"style": {
-        “ type”：“ rect”，"type": "rect",
-        “比率”：1.5"ratio": 1.5
-      }}
-    }，，},
-    {{
-      “键”：“本地”，"key": "Local",
-      “名称”：“本地”，"name": "本地",
-      “类型”：3，"type": 3,
-      “ api”：“ csp_local”"api": "csp_Local"
-    }，，},
+    {
+      "key": "网盘配置",
+      "name": "网盘及彈幕配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {
+      "key": "Local",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local"
+    },
 
-    {{
-      “键”：“ firstaid”，"key": "FirstAid",
-      “名称”：“🚑急救知识”，"name": "🚑 急救知识 ",
-      “类型”：3，"type": 3,
-      “ api”：“ csp_firstaid”，"api": "csp_FirstAid",
-      “可搜索”：0，"searchable": 0,
-      “ QuickSearch”：0，"quickSearch": 0,
-      “可变”：0，"changeable": 0,
-      “风格”： {"style": {
-        “ type”：“ rect”，"type": "rect",
-        “比率”：3.8"ratio": 3.8
-      }}
-    }，，},
-    {{
-      “键”：“ bili”，"key": "bili",
-      “名称”：“b站| bili [jar]”，"name": "B站 | Bili[jar]",
+    {
+      "key": "FirstAid",
+      "name": "🚑 急救知识 ",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "bili",
+      "name": "B站 | Bili[jar]",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -434,73 +434,75 @@
       ],
       "regex": [
         "video/tos/cn"
-      这是给出的
-    }，，，
+      ]
+    },
     {
-      “名称”：“夜市”，，
-      “主持人”：[[
-        “ yeslivetv.com”
-      ]，，，
-      “脚本”：：[
-        “ document.getElementsByClassName（'vjs-big-play-button'）[0] .click（）”
-      这是给出的
-    }，，
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
     {
-      “名称”：“毛驴”，
-      “主持人”：[
-        “ www.maolvys.com”
-      ]，，
-      “脚本”：[
-        “ document.getElementsByClassName（'swal-button swal-button-confirm'）[0] .click（）
-      这是给出的
-    }，，
+      "name": "毛驢",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
     {
-      “名称”：“磁力广告”，
-      “主持人”：[
-        “磁铁”
-      ]，，
-      “正则”：[[
-        “更多”，
-        “社”，
-        “ Xu U”，
-        “最”，
-        “直”，
-        “更”，
-        “有”，
-        “英皇体育”，
-        “全中文av在线”，
-        “澳门皇冠赌场”，
-        “哥哥快来”，
-        “美女荷官”，
-        “裸聊”，
-        “新片首发”，
-        “ UUE29”
-      这是给出的
+      "name": "磁力广告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社 区",
+        "x u u",
+        "最 新",
+        "直 播",
+        "更 新",
+        "有 趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
     }
-  ]，，
-  "parses"：[[
+  ],
+  "parses": [
     {
-      “名称”：“聚合”，
-      “类型”：3，
-      “ url”：“演示”
-    }，，
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
     {
-      “名称”：“ Web”，
-      “类型”：3，
-      “ url”：“ web”
+      "name": "web",
+      "type": 3,
+      "url": "Web"
     }
-  ]，，
-  "flags"：[
-    “ youku”，
-    “ QQ”，
-    “ iqiyi”，
-    “ Qiyi”，
-    “ letv”，
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
     "sohu",
     "tudou",
     "pptv",
     "mgtv",
     "wasu"
   ],
-  “墙纸”: "http://饭太硬.top/深色壁纸/api.php"
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "disabled_wallpaper": "",
+  "logo": ""
 }
